@@ -1,67 +1,173 @@
-# Adarsh Das
+# Hi, I'm Adarsh Das 👋
 
-Software Developer | Full-Stack Learner | AI Enthusiast
-
----
-
-## About Me
-
-I am a Computer Science student with an interest in software development, artificial intelligence, and modern web technologies. I enjoy building practical applications, learning new technologies, and solving real-world problems through code.
+> Full-Stack Developer • AI Enthusiast • Computer Science Student
 
 ---
 
-## Skills
+## 🚀 About Me
+
+I'm passionate about building software that solves real-world problems. I enjoy working with modern web technologies, exploring AI, and continuously improving my development skills.
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
-- JavaScript
-- HTML
-- CSS
-- Python
-- Java
 
-### Frameworks & Libraries
-- React
-- Node.js
-- Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
-- MongoDB
-- MySQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-- MERN Stack
-- System Design
-- Data Structures & Algorithms
-- AI & Machine Learning
-
----
-
-## Goals
-
-- Build impactful software projects.
-- Contribute to open-source.
-- Strengthen full-stack development skills.
-- Learn scalable backend architecture.
+- ⚛️ React
+- 🚀 Node.js & Express
+- 🍃 MongoDB
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
 
 ---
 
-## Connect
+## 📈 GitHub Stats
 
-- GitHub: https://github.com/adarshdas13
-- LinkedIn: https://linkedin.com/in/adarshdas13
-- Email: adarshdas807@gmail.com
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
-## License
+## 🔥 GitHub Streak
 
-MIT License
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# Hi, I'm Adarsh Das 👋
+
+> Full-Stack Developer • AI Enthusiast • Computer Science Student
+
+---
+
+## 🚀 About Me
+
+I'm passionate about building software that solves real-world problems. I enjoy working with modern web technologies, exploring AI, and continuously improving my development skills.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ React
+- 🚀 Node.js & Express
+- 🍃 MongoDB
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adarshdas13&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/adarshdas13">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://linkedin.com/in/adarshdas13">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:adarshdas807@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=adarshdas13&style=flat-square)
+
+---
+
+<p align="center">
+  <b>Always Learning • Always Building 🚀</b>
+</p>
