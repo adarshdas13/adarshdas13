@@ -57,7 +57,7 @@ I am a Computer Science student with an interest in software development, artifi
 ## Connect
 
 - GitHub: https://github.com/adarshdas13
-- LinkedIn: https://linkedin.com/in/adarsh-das-553970305
+- LinkedIn: https://linkedin.com/in/adarshdas13
 - Email: adarshdas807@gmail.com
 
 ---
