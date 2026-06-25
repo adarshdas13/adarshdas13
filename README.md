@@ -1,16 +1,67 @@
-## Hi there 👋
+# Adarsh Das
 
-<!--
-**adarshdas13/adarshdas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Full-Stack Learner | AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Computer Science student with an interest in software development, artificial intelligence, and modern web technologies. I enjoy building practical applications, learning new technologies, and solving real-world problems through code.
+
+---
+
+## Skills
+
+### Languages
+- JavaScript
+- HTML
+- CSS
+- Python
+- Java
+
+### Frameworks & Libraries
+- React
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## Currently Learning
+
+- MERN Stack
+- System Design
+- Data Structures & Algorithms
+- AI & Machine Learning
+
+---
+
+## Goals
+
+- Build impactful software projects.
+- Contribute to open-source.
+- Strengthen full-stack development skills.
+- Learn scalable backend architecture.
+
+---
+
+## Connect
+
+- GitHub: https://github.com/adarshdas13
+- LinkedIn: https://linkedin.com/in/adarsh-das-553970305
+- Email: adarshdas807@gmail.com
+
+---
+
+## License
+
+MIT License
