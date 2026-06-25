@@ -66,7 +66,7 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=adarshdas13&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -130,8 +130,8 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshdas13&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshdas13&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -146,18 +146,10 @@ I'm passionate about building software that solves real-world problems. I enjoy 
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://github.com/adarshdas13">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://linkedin.com/in/adarshdas13">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:adarshdas807@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+<p align="center">
+  <a href="https://github.com/adarshdas13"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/adarshdas13"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adarshdas807@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/></a>
 </p>
 
 ---
