@@ -78,11 +78,11 @@ I believe the best way to learn is by building. Every project is an opportunity 
 A modern, fully responsive sushi restaurant landing page built with HTML, CSS, and Vite.
 
 <p>
-<a href="(https://github.com/adarshdas13/sushi-theme)">
+<a href="https://github.com/adarshdas13/sushi-theme">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="(https://anteiku-sushi.netlify.app/)">
+<a href="https://anteiku-sushi.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 </p>
@@ -96,11 +96,11 @@ A modern, fully responsive sushi restaurant landing page built with HTML, CSS, a
 An interactive, responsive landing page featuring synchronized dual-Swiper 3D sliders, dynamic CSS mask/background animations, GSAP typography effects, and a mobile-friendly slide-out menu navigation.
 
 <p>
-<a href="(https://github.com/adarshdas13/3d-slider)">
+<a href="https://github.com/adarshdas13/3d-slider">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="(https://pulp-3d.netlify.app/)">
+<a href="https://pulp-3d.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 </p>
