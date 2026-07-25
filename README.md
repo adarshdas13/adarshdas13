@@ -73,16 +73,34 @@ I believe the best way to learn is by building. Every project is an opportunity 
 
 # 📌 Featured Projects
 
-## 🎬 Hulu Landing Page Clone
+## 🍣 Anteiku Sushi Website
 
-A pixel-perfect recreation of Hulu's landing page with responsive design and modern frontend practices.
+A modern, fully responsive sushi restaurant landing page built with HTML, CSS, and Vite.
 
 <p>
-<a href="https://github.com/adarshdas13/hulu_clone">
+<a href="(https://github.com/adarshdas13/sushi-theme)">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://hulu-adarsh.netlify.app/">
+<a href="(https://anteiku-sushi.netlify.app/)">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+## 🍎 Pulp 3D - Slider Website
+
+An interactive, responsive landing page featuring synchronized dual-Swiper 3D sliders, dynamic CSS mask/background animations, GSAP typography effects, and a mobile-friendly slide-out menu navigation.
+
+<p>
+<a href="(https://github.com/adarshdas13/3d-slider)">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="(https://pulp-3d.netlify.app/)">
 <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 </p>
