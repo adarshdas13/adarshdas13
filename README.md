@@ -179,6 +179,6 @@ A modern responsive business website emphasizing clean design, accessibility, an
 
 <h3 align="center">
 
-**Build. Learn. Adapt.**
+**404: Limits Not Found.**
 
 </h3>
