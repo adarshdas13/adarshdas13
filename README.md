@@ -127,14 +127,6 @@ A modern responsive business website emphasizing clean design, accessibility, an
 
 ---
 
-## 🚀 Coming Soon
-
-- MERN Stack Applications
-- AI-Powered Projects
-- Open Source Contributions
-
----
-
 # 🌱 Currently Exploring
 
 - ⚛️ React Ecosystem
@@ -187,6 +179,6 @@ A modern responsive business website emphasizing clean design, accessibility, an
 
 <h3 align="center">
 
-**Build. Learn. Improve. Repeat.**
+**Build. Learn. Adapt.**
 
 </h3>
