@@ -73,6 +73,21 @@ I believe the best way to learn is by building. Every project is an opportunity 
 
 # 📌 Featured Projects
 
+# 🛒 Evara - E-Commerce Platform
+A full-stack e-commerce web application featuring dynamic product cataloging, cart management, and a responsive shopping experience.
+
+<p>
+<a href="https://github.com/adarshdas13/evara-ecom">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://https://evaraecom.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+</p>
+
+**Tech:** HTML • CSS • JavaScrip
+
 ## 🍣 Anteiku Sushi Website
 
 A modern, fully responsive sushi restaurant landing page built with HTML, CSS, and Vite.
