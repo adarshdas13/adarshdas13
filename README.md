@@ -81,12 +81,14 @@ A full-stack e-commerce web application featuring dynamic product cataloging, ca
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://https://evaraecom.netlify.app/">
+<a href="https://evaraecom.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 </p>
 
-**Tech:** HTML • CSS • JavaScrip
+**Tech:** HTML • CSS • JavaScript
+
+---
 
 ## 🍣 Anteiku Sushi Website
 
