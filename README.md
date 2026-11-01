@@ -39,7 +39,7 @@
 > A full-stack e-commerce web application featuring dynamic product cataloging, cart management, and a responsive shopping experience.
 
 - **Tech:** `HTML` • `CSS` • `JavaScript`
-- 📂 [Repository](https://github.com/adarshdas13/evara) &nbsp;|&nbsp; 🌐 [Live Demo](https://adarshdas13.github.io/evara/)
+- 📂 [Repository](https://github.com/adarshdas13/evara-ecom) &nbsp;|&nbsp; 🌐 [Live Demo](https://evaraecom.netlify.app/)
 
 ---
 
@@ -47,7 +47,7 @@
 > A modern, fully responsive sushi restaurant landing page built with clean interactive UI layouts.
 
 - **Tech:** `HTML` • `CSS` • `JavaScript` • `Vite`
-- 📂 [Repository](https://github.com/adarshdas13/sushi-theme) &nbsp;|&nbsp; 🌐 [Live Demo](https://adarshdas13.github.io/sushi-theme/)
+- 📂 [Repository](https://github.com/adarshdas13/sushi-theme) &nbsp;|&nbsp; 🌐 [Live Demo](https://anteiku-sushi.netlify.app/)
 
 ---
 
@@ -55,7 +55,7 @@
 > An interactive landing page featuring synchronized dual-Swiper 3D sliders, dynamic CSS mask animations, and GSAP typography effects.
 
 - **Tech:** `HTML` • `CSS` • `JavaScript` • `GSAP` • `Swiper.js`
-- 📂 [Repository](https://github.com/adarshdas13/3d-slider) &nbsp;|&nbsp; 🌐 [Live Demo](https://adarshdas13.github.io/3d-slider/)
+- 📂 [Repository](https://github.com/adarshdas13/3d-slider) &nbsp;|&nbsp; 🌐 [Live Demo](https://pulp-3d.netlify.app/)
 
 ---
 
@@ -63,7 +63,15 @@
 > A modern, accessible business web interface designed with intuitive layout structures and user experience best practices.
 
 - **Tech:** `HTML` • `CSS` • `JavaScript`
-- 📂 [Repository](https://github.com/adarshdas13/futaba_daycare) &nbsp;|&nbsp; 🌐 [Live Demo](https://adarshdas13.github.io/futaba_daycare/)
+- 📂 [Repository](https://github.com/adarshdas13/futaba_daycare) &nbsp;|&nbsp; 🌐 [Live Demo](https://futaba-daycare.netlify.app/)
+
+---
+
+### 🍕 **Baratie**
+> An artisanal pizzeria and gourmet kitchen featuring fast online ordering, crowd-favorite menu items, signature dish showcases, and customer reviews.
+
+- **Tech:** `HTML` • `CSS` • `BootStrap`
+- 📂 [Repository](https://github.com/adarshdas13/baratie) &nbsp;|&nbsp; 🌐 [Live Demo](https://futaba-daycare.netlify.app/)
 
 ---
 
