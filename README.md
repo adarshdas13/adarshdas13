@@ -71,7 +71,7 @@
 > An artisanal pizzeria and gourmet kitchen featuring fast online ordering, crowd-favorite menu items, signature dish showcases, and customer reviews.
 
 - **Tech:** `HTML` • `CSS` • `BootStrap`
-- 📂 [Repository](https://github.com/adarshdas13/baratie) &nbsp;|&nbsp; 🌐 [Live Demo](https://futaba-daycare.netlify.app/)
+- 📂 [Repository](https://github.com/adarshdas13/baratie) &nbsp;|&nbsp; 🌐 [Live Demo](https://baratie-food.netlify.app/)
 
 ---
 
