@@ -35,6 +35,14 @@
 
 ## 📌 Featured Projects
 
+### 🧑‍🚀 **NASA Astronomy Picture of the Day**
+> A modern, high-performance web application built with React and Vite that interfaces with NASA's Open APIs to present daily astronomical imagery, videos, and scientific explanations.
+
+- **Tech:** `React` • `Tailwind CSS` • `JavaScript`
+- 📂 [Repository](https://github.com/adarshdas13/nasa-apod-app) &nbsp;|&nbsp; 🌐 [Live Demo](https://apod-nasa-reactproject.netlify.app/)
+
+---
+
 ### 🛒 **Evara — E-Commerce Platform**
 > A full-stack e-commerce web application featuring dynamic product cataloging, cart management, and a responsive shopping experience.
 
